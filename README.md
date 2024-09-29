@@ -25,5 +25,5 @@ Aside from my endeavors in becoming a cybersecurity proffessional I like to do i
 For investigating malware use [Virus Total](https://virustotal.com) 
 My favorite song Im listening to [Palm Sunshine] by MXPEX (https://youtu.be/wTlYN0nDGz4?si=1-NYljZBQR5owUBw)
 
-> "This is a quote, from someone who is very wise" - Anonymouse
+> "This is a quote, from someone who is very wise" - Anonymous
 
